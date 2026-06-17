@@ -99,45 +99,11 @@ Performance is evaluated using:
 
 ---
 
-## 🖥️ How to Run Project
-
-### Step 1: Open Google Colab
-
-Upload:
-
-### Step 3: Run All Cells
-
-The notebook will:
-
-- Train the model
-- Evaluate performance
-- Test new news articles
-
----
-
-## 🔍 Example Output
-
-Input:
-
-Output:
-
----
-
-## 🔮 Future Enhancements
-
-- Add BERT/Transformer-based model
-- Real-time news verification
-- News source credibility checking
-- AI-generated summaries
-- Web application using React + FastAPI
-- Browser extension for fake news detection
-
----
 
 ## 👨‍💻 Author
 
 **Pabitra Pal**  
-B.Tech Computer Science Engineering (AI/ML)
+
 
 ---
 
